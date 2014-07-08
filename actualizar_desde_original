@@ -1,0 +1,4 @@
+Actualizar desde el original
+
+git remote add upstream https://github.com/bcaffo/courses.git
+git pull upstream master
